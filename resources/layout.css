@@ -49,16 +49,17 @@ a:hover {
 }
 
 #nav {
-	margin: 0 20px 0 0;
+	margin: 0 0 0 0;
 	float: left;
-  /* CHALLENGE 3: how could you get this to float to the left side of the screen? */
+	width: 200px;
+	max-width: 200px;
 }
 
 #main {
-	margin: 0;
+	margin: none;
 	float: right; 
-  /*  CHALLENGE 3: how could you get this to float to the left side of the screen? */
-
+	
+  
 
  }
 #resume_name {
