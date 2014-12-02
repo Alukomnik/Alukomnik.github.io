@@ -38,6 +38,7 @@ a:hover {
 #copyright {
 	margin-top: 30px;
 	margin-bottom: 30px;
+
 }
 
 #header  {
@@ -52,14 +53,13 @@ a:hover {
 #nav {
 	margin: 0 0 0 0;
 	float: left;
-	width: 200px;
-	max-width: 200px;
+	width: 267px;
+	max-width: 267px;
 }
 
 #main {
 	margin: none;
 	float: right; 
-
   
 
  }
@@ -69,8 +69,9 @@ a:hover {
 	color: #752FA1;
 
 }
-
-
+.under_photo {
+	text-align: center;
+}
 
 
 /* Ignore this for now, it is special code needed to fix the layout after using the "float" rules */
