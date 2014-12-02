@@ -66,14 +66,31 @@ a:hover {
 #resume_name {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 24px;
-	color: #752FA1;
+	color: #41A1FF;
 
 }
 .under_photo {
 	text-align: center;
 }
+.primary_blue {
+	background-color: #41A1FF;
+}
+.secondary_blue {
+	background-color: #5AAEFF;
+}
+.third_blue {
+	background-color: #1C68B2;
+}
+.primary_tan {
+	background-color: #FFB841;
+}
+.primary_rose {
+	background-color:#FF645A;
 
-
+}
+.primary_red {
+	background-color:#B2352D;
+}
 /* Ignore this for now, it is special code needed to fix the layout after using the "float" rules */
 .clearfix:before, .clearfix:after { content:""; display:table; }
 .clearfix:after { clear:both; }
