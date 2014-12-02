@@ -45,7 +45,8 @@ a:hover {
 }
 
 #headshot {
-	height :300px;
+	height :400px;
+	padding-top: 22px; 
 }
 
 #nav {
@@ -58,7 +59,7 @@ a:hover {
 #main {
 	margin: none;
 	float: right; 
-	
+
   
 
  }
