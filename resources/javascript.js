@@ -1,4 +1,4 @@
-//$(document).ready(function() {
+$(document).ready(function() {
   $("#copyright").click(function(){ 
   $(this).css('color','purple'); 
   });
